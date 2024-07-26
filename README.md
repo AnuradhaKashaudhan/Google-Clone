@@ -14,7 +14,7 @@ The <body> section includes the visible content of the web page, which can inclu
 paragraphs, images, links, and more. The code snippet also includes a <header> element, which is a section that typically 
 appears at the top of the page and can include branding, navigation links, and other content.
 
-The <ul> element is an unordered list, which contains a series of <li> elements that define each item in the list. 
+The element is an unordered list, which contains a series of elements that define each item in the list. 
 In this case, the list is part of the top bar and includes links to Gmail and Images. The code also includes an SVG graphic
 with the path elements that define the shape of the image.
 
