@@ -1,5 +1,7 @@
 # Google clone
-![Google.clone](ssds)
+[Google.clone](ssds)
+
+
 We've all seen the Google homepage on our computers when we're surfing the web.Here I have created same by using basic HTML and CSS.
 # HTML
 To get started, we will first need to create a basic HTML file. In this file, we will include the main structure for our Google search page clone.
